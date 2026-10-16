@@ -49,6 +49,10 @@ TUIを起動した状態で、次のコマンドをTUIの中に入力します�
 opencode pair
 ```
 
+<img src="assets/img/start-pairing.webp" alt="ブラウザ側のサーバー接続画面" style="max-width:100%">
+
+*図: ブラウザ側の接続画面（2026-10-16取得）。ペアリングリンクかQRコードを入力する。*
+
 ブラウザで開くWeb UI版は、次のコマンドでも起動できます。⚠️ 未検証（公式ドキュメントに基づく）
 
 ```bash

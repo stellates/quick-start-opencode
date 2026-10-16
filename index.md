@@ -7,6 +7,10 @@ layout: default
 
 OpenCodeを初めて使う人のための導入ガイドです。インストールして、無料モデルで開発を始めるところまで案内します。
 
+<img src="assets/img/index-web-home.webp" alt="OpenCodeのWeb UIの初期画面" style="max-width:100%">
+
+*図: Web UI版の初期画面（2026-10-16取得）。ここにセッションが並ぶ。*
+
 ## 手順
 
 1. [インストール](install.html) — Windows / Macに入れる
