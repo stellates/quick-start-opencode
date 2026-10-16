@@ -1,0 +1,9 @@
+title: OpenCode クイックスタート
+description: OpenCodeを初めて使う日本語ユーザーのための導入ガイド。インストールから無料モデルでの開発開始まで。
+lang: ja
+baseurl: "/quick-start-opencode"
+url: "https://stellates.github.io"
+markdown: kramdown
+exclude:
+  - AGENTS.md
+  - README.md
